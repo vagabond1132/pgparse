@@ -1,0 +1,54 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+MW_AdjuseFrameSize	../showPage.py	/^    def MW_AdjuseFrameSize(self):$/;"	kind:member	line:96
+MW_ColorSelect	../showPage.py	/^    def MW_ColorSelect(self):$/;"	kind:member	line:46
+MW_Exit	../showPage.py	/^    def MW_Exit(self, message):$/;"	kind:member	line:466
+MW_FootFrame	../showPage.py	/^    def MW_FootFrame(self):$/;"	kind:member	line:287
+MW_LeftFrame	../showPage.py	/^    def MW_LeftFrame(self):$/;"	kind:member	line:178
+MW_MainFrame	../showPage.py	/^    def MW_MainFrame(self):$/;"	kind:member	line:139
+MW_MainFrameMenu	../showPage.py	/^    def MW_MainFrameMenu(self):$/;"	kind:member	line:157
+MW_MiddleFrame	../showPage.py	/^    def MW_MiddleFrame(self):$/;"	kind:member	line:219
+MW_RightFrame	../showPage.py	/^    def MW_RightFrame(self):$/;"	kind:member	line:233
+MW_Start	../showPage.py	/^    def MW_Start(self):$/;"	kind:member	line:447
+MyCanvas	../mycancas.py	/^class MyCanvas():$/;"	kind:class	line:22
+MyCanvas	../showPage.py	/^from mycancas import MyCanvas$/;"	kind:namespace	line:23
+MyWin	../showPage.py	/^class MyWin():$/;"	kind:class	line:35
+Page	../PageItem.py	/^class Page():$/;"	kind:class	line:16
+PageElement	../PageItem.py	/^class PageElement():$/;"	kind:class	line:24
+PageItem.py	../PageItem.py	1;"	kind:file	line:1
+ParsePage	../parsepage.py	/^class ParsePage():$/;"	kind:class	line:26
+__init__	../PageItem.py	/^    def __init__(self):$/;"	kind:member	line:17
+__init__	../PageItem.py	/^    def __init__(self):$/;"	kind:member	line:25
+__init__	../mycancas.py	/^    def __init__(self, parentframe, cv_width, cv_height, colorset):$/;"	kind:member	line:23
+__init__	../parsepage.py	/^    def __init__(self, filename, pagesize, blkno):$/;"	kind:member	line:27
+__init__	../showPage.py	/^    def __init__(self):$/;"	kind:member	line:36
+action_button_next	../showPage.py	/^    def action_button_next(self):$/;"	kind:member	line:383
+action_button_prev	../showPage.py	/^    def action_button_prev(self):$/;"	kind:member	line:376
+action_canvas_click	../showPage.py	/^    def action_canvas_click(self, event):$/;"	kind:member	line:319
+action_openfile	../showPage.py	/^    def action_openfile(self, event):$/;"	kind:member	line:395
+action_page_header	../showPage.py	/^    def action_page_header(self, event):$/;"	kind:member	line:336
+action_page_select	../showPage.py	/^    def action_page_select(self, event):$/;"	kind:member	line:355
+action_read_history	../showPage.py	/^    def action_read_history(self):$/;"	kind:member	line:431
+action_tuple	../showPage.py	/^    def action_tuple(self, event):$/;"	kind:member	line:346
+action_tuple_item	../showPage.py	/^    def action_tuple_item(self, event):$/;"	kind:member	line:341
+action_wal_header	../showPage.py	/^    def action_wal_header(self, event):$/;"	kind:member	line:332
+action_write_history	../showPage.py	/^    def action_write_history(self):$/;"	kind:member	line:423
+clean_cv	../mycancas.py	/^    def clean_cv(self):$/;"	kind:member	line:44
+filedialog	../showPage.py	/^from tkinter import filedialog$/;"	kind:namespace	line:14
+getPageHeader	../parsepage.py	/^    def getPageHeader(self):$/;"	kind:member	line:58
+getTuple	../parsepage.py	/^    def getTuple(self):$/;"	kind:member	line:111
+getTupleItem	../parsepage.py	/^    def getTupleItem(self):$/;"	kind:member	line:91
+get_canvas_Tuple	../showPage.py	/^    def get_canvas_Tuple(self, x, y):$/;"	kind:member	line:307
+get_canvas_item	../showPage.py	/^    def get_canvas_item(self, x, y):$/;"	kind:member	line:297
+messagebox	../parsepage.py	/^from tkinter import messagebox$/;"	kind:namespace	line:13
+messagebox	../showPage.py	/^from tkinter import messagebox$/;"	kind:namespace	line:15
+mycancas.py	../mycancas.py	1;"	kind:file	line:1
+os	../showPage.py	/^import os$/;"	kind:namespace	line:18
+parsepage.py	../parsepage.py	1;"	kind:file	line:1
+showPage.py	../showPage.py	1;"	kind:file	line:1
+struct	../parsepage.py	/^import struct$/;"	kind:namespace	line:19
+ttk	../showPage.py	/^from tkinter import ttk$/;"	kind:namespace	line:16
