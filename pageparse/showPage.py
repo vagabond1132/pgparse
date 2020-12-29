@@ -38,12 +38,12 @@ class MyWin():
         self.pageKind = 'rel'
         self.currBlk = self.totalBlk = 0
         self.fileName = ''
-        self.screenWidth = self.win.winfo_screenwidth()
-        self.screenHeight = self.win.winfo_screenheight() 
-        #self.screenWidth = 1366
+        #self.screenWidth = self.win.winfo_screenwidth()
+        #self.screenHeight = self.win.winfo_screenheight() 
+        self.screenWidth = 1366
         #self.creeenHeight = 768
-
-
+        self.screenHeight = 780        
+   
         self.prev_lock_item = None
         self.next_lock_item = None
 
